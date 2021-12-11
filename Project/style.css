@@ -1,0 +1,366 @@
+body {
+  background-color: lightgrey;
+}
+/* Drop Down Menu With Logo */
+.dropdwn{
+  margin: 0 auto;
+}
+nav{
+  height: 70px;
+  background: #2c3e50;
+  box-shadow: 0 10px 15px rgba(0,0,0,.1);
+}
+.logo{
+  padding: -4px 0 0 80px;
+  width: 60px;
+  height: 65px;
+  margin-left: 10px;
+  margin-top: 2px;
+}
+nav ul{
+  padding: 0;
+  margin: 0;
+  float: right;
+  margin-right: 30px;
+}
+nav ul li{
+  background: #2c3e50;
+  position: relative;
+  list-style: none;
+  display: inline-block;
+}
+nav ul li a{
+  display: block;
+  padding: 0 20px;
+  color: white;
+  text-decoration: none;
+  line-height: 60px;
+  font-size: 20px;
+}
+nav ul li a:hover{
+  background: #243342;
+}
+nav ul ul{
+  position: absolute;
+  top: 50px;
+  line-height: 15px !important;
+  display: none;
+}
+nav ul li:hover > ul{
+  display: block;
+}
+nav ul ul li{
+  width: 250px;
+  float: none;
+  display: list-item;
+  position: relative;
+  line-height: 20px !important;
+}
+nav ul ul ul li{
+  position: relative;
+  top: -50px;
+  left: 100px;
+}
+/* END */
+/* Header image section */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+/* END */
+/* About Crime */
+.aside1 {
+  background-color: #2874A6   ;
+  padding: 15px;
+  color: #ffffff;
+  text-align: center;
+  font-size: 14px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.12), 0 4px 8px rgba(0,0,0,0.24);
+}
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
+/* END */
+
+/* Button Design */
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  border-radius: 20px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+}
+.button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+/* END */
+/* Column Cards */
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+.row {margin: 0 -5px;}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+/* END */
+/* Cyber Crime */
+.container {
+  border: 2px solid #ccc;
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 16px;
+  margin: -16px 0;
+}
+
+.container:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.container img {
+  float: left;
+  margin-left: 50px;
+  margin-right: 30px;
+  border-radius: 5%;
+}
+
+.container span {
+  font-size: 25px;
+  margin-right: 5px;
+  color: black;
+}
+.button {
+  background-color: #4CAF50;
+  float: center;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  border-radius: 20px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+}
+.button {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+/* END */
+/* Cyber Safety */
+/* Background Design */
+.aside {
+  background-color: #2874A6 ;
+  padding: 15px;
+  color: #ffffff;
+  text-align: left;
+  font-size: 14px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.12), 0 4px 8px rgba(0,0,0,0.24);
+}
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
+/* END */
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  border-radius: 20px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+}
+.button {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+/* END */
+/* END */
+/*  Media Gallery */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.column1 {
+  float: left;
+  width: 45%;
+  padding: 0 20px;
+}
+.row1 {margin: 0 10px;}
+
+.row1:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .column1 {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+.caro {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+.caro1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #5DADE2   ;
+}
+.caro2 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  margin-right: 60%;
+  text-align: center;
+  background-color: orange;
+}
+.caro3 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  margin-right: 60%;
+  text-align: center;
+  background-color: lightgreen;
+}
+.caro4 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  margin-right: 60%;
+  text-align: center;
+  background-color: pink;
+}
+/* END */
+/* Footer Text Decoration */
+.column,a {
+  color: white;
+  text-decoration: none;
+}
+.legal {
+  background-color: #17202A;
+  padding: 15px;
+  color: #17252A;
+  text-align: left;
+  font-size: 14px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.12), 0 4px 8px rgba(0,0,0,0.24);
+}
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
+
+.language {
+  float: right;
+}
+.underline {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-right: -5%;
+}
+/* Rounded border */
+hr.rounded {
+  border-top: 6px solid #bbb;
+  border-radius: 5px;
+  margin-right:70%;
+  padding-bottom: -70px;
+}
+.member {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  border-radius: 20px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+}
+.member {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  
+}
+.aside2 {
+  background-color: #2874A6 ;
+  padding: 15px;
+  color: #ffffff;
+  text-align: left;
+  font-size: 14px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.12), 0 4px 8px rgba(0,0,0,0.24);
+}
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
+@import url("http://www.google.com/uds/solutions/dynamicfeed/gfdynamicfeedcontrol.css");
+
+#feedControl{
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 440px;
+  font-size: 12px;
+  color: #9CADD0;
+  }
