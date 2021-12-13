@@ -311,3 +311,12 @@ nav ul ul ul li{
   left: 100px;
 }
 /* END */
+
+.aside2 {
+  background-color: #2874A6 ;
+  padding: 15px;
+  color: #ffffff;
+  text-align: left;
+  font-size: 14px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.12), 0 4px 8px rgba(0,0,0,0.24);
+}
