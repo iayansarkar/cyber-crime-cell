@@ -1,0 +1,313 @@
+body {
+  background-color: black;
+}
+/* Drop Down Menu With Logo */
+
+
+
+/* End */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #f6f5f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: 'Montserrat', sans-serif;
+  height: 150vh;
+  margin: -20px 0 50px;
+}
+
+h1 {
+  font-weight: bold;
+  margin: 0;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  font-size: 14px;
+  font-weight: 100;
+  line-height: 20px;
+  letter-spacing: 0.5px;
+  margin: 20px 0 30px;
+}
+
+span {
+  font-size: 12px;
+}
+
+a {
+  color: #333;
+  font-size: 14px;
+  text-decoration: none;
+  margin: 15px 0;
+}
+
+button {
+  border-radius: 20px;
+  border: 1px solid #FF4B2B;
+  background-color: #FF4B2B;
+  color: #FFFFFF;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 12px 45px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  transition: transform 80ms ease-in;
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+button:focus {
+  outline: none;
+}
+
+button.ghost {
+  background-color: transparent;
+  border-color: #FFFFFF;
+}
+
+form {
+  background-color: #FFFFFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0 50px;
+  height: 90%;
+  border-top: 10%;
+  width: 150%, -30%;
+  margin-left: 20%;
+  text-align: center;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+      0 10px 10px rgba(0,0,0,0.22);
+}
+
+input {
+  background-color: #eee;
+  border: none;
+  padding: 12px 15px;
+  margin: 8px 0;
+  width: 100%;
+}
+@media screen and (max-width: 600px) {
+  .column1 {
+    width: 100%;
+    display: block;
+    margin-bottom: -10px;
+  }
+}
+
+.button {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  margin-right: -80%;
+  border-radius: 20px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+}
+.button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+/* Footer Text Decoration */
+.column,a {
+  color: white;
+  text-decoration: none;
+}
+.legal {
+  background-color: #17202A;
+  padding: 15px;
+  color: #17252A;
+  text-align: left;
+  font-size: 14px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.12), 0 4px 8px rgba(0,0,0,0.24);
+}
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
+
+.language {
+  float: right;
+}
+.underline {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-right: -5%;
+}
+/* Rounded border */
+hr.rounded {
+  border-top: 6px solid #bbb;
+  border-radius: 5px;
+  margin-right:70%;
+  padding-bottom: -70px;
+}
+.member {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  border-radius: 20px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+}
+.member {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  
+}
+.aside2 {
+  background-color: #2874A6 ;
+  padding: 15px;
+  color: #ffffff;
+  text-align: left;
+  font-size: 14px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.12), 0 4px 8px rgba(0,0,0,0.24);
+}
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
+@import url("http://www.google.com/uds/solutions/dynamicfeed/gfdynamicfeedcontrol.css");
+
+#feedControl{
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 440px;
+  font-size: 12px;
+  color: #9CADD0;
+  }
+
+  /* Column Cards */
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+.row {margin: 0 -5px;}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+
+/* Button Design */
+.button {
+  background-color: #darkblue;
+  border: none;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  border-radius: 20px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+}
+.button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+/* END */
+
+/* Drop Down Menu With Logo */
+.dropdwn{
+  margin: 0 auto;
+}
+nav{
+  height: 70px;
+  background: #2c3e50;
+  box-shadow: 0 10px 15px rgba(0,0,0,.1);
+}
+.logo{
+  padding: -4px 0 0 80px;
+  width: 60px;
+  height: 65px;
+  margin-left: 10px;
+  margin-top: 2px;
+}
+nav ul{
+  padding: 0;
+  margin: 0;
+  float: right;
+  margin-right: 30px;
+}
+nav ul li{
+  background: #2c3e50;
+  position: relative;
+  list-style: none;
+  display: inline-block;
+}
+nav ul li a{
+  display: block;
+  padding: 0 20px;
+  color: white;
+  text-decoration: none;
+  line-height: 60px;
+  font-size: 20px;
+}
+nav ul li a:hover{
+  background: #243342;
+}
+nav ul ul{
+  position: absolute;
+  top: 50px;
+  line-height: 15px !important;
+  display: none;
+}
+nav ul li:hover > ul{
+  display: block;
+}
+nav ul ul li{
+  width: 250px;
+  float: none;
+  display: list-item;
+  position: relative;
+  line-height: 20px !important;
+}
+nav ul ul ul li{
+  position: relative;
+  top: -50px;
+  left: 100px;
+}
+/* END */
