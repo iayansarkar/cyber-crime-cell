@@ -1,5 +1,4 @@
-<h1 align="center"><b><i>Cyber Crime Cell</i></b></h1>
-<h2 align="center"><b>Project Snapshot</b></h2>
+<h1 align="center"><b><i>Project Snapshot</i></b></h1>
 <img src="images/screenshots/Header.png">
 <img src="images/screenshots/About-Cyber-Crime.png">
 <img src="images/screenshots/Cyber-Crimes.png">
