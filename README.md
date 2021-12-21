@@ -146,3 +146,16 @@
 <p>University Roll No. – 171001201011</p>
 <p>Registration No.- 1001711368</p>
 
+<style>
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+</style>
+</head>
+<body>
+
+<div>Demonstrating the Box Model</div>
