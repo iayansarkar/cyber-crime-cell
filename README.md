@@ -158,4 +158,9 @@ div {
 </head>
 <body>
 
-<div>Demonstrating the Box Model</div>
+<p style="div { background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}">Demonstrating the Box Model</p>
