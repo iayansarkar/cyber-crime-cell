@@ -11,11 +11,11 @@ Project Name:- Cyber Crime Cell
 
 Final Year Project Report -2020
 
-
-	Name:- Ayan Sarkar
-	Student ID:- 171001201011
-	Registration Number:- 1001711368
-	Stream:- Computer science and engineering
-	Batch:- DCS3
-	Year:- 3rd- (Final Year)
+<ul>
+  <li>Name:- Ayan Sarkar</li>
+  <li>Student ID:- 171001201011</li>
+Registration Number:- 1001711368
+Stream:- Computer science and engineering
+Batch:- DCS3
+Year:- 3rd- (Final Year)
 
