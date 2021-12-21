@@ -62,17 +62,50 @@
   <li>Google Drive</li>
   <li>Google Sheet</li>
 </ul>
-
+<ul><h3><b>Hardware Requirement:-</b></h3>
+  <li>Laptop with Internet</li>
+</ul>
 
 <h1 align="center"><b><i>Site Map</i></b></h1>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li> 
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Home</li>
+  <li>Report Crime</li>
+  <li>Crime Reports</li> 
+  <li>Track Complaints</li>
+  <li>Criminal Cases</li>
+  <li>Act Rule</li>
+  <li>Member</li>
+  <li>About Cyber Crime</li>
+  <li>Email Frauds</li> 
+  <li>Social Media Crimes</li>
+  <li>Data Theft</li>
+  <li>Cheating Scams</li>
+  <li>Safety For Children</li>
+  <li>Safety For Women</li>
+  <li>Safety For Senior Citizen</li> 
+  <li>Safety For Parent</li>
+  <li>WebDiscover</li>
+  <li>Browser</li>
+  <li>Google Redirect</li>
+  <li>Virus</li>
+  <li>V9 Redirect Virus</li> 
+  <li>Other</li>
+  <li>Decoder Ransomware</li>
+  <li>Devos Ransomware</li>
+  <li>Cerber Ransomware</li>
+  <li>Eight Ransomware</li>
+  <li>CoronaVirus Ransomware</li> 
+  <li>Conficker Ransomware</li>
+  <li>Dewar Ransomware</li>
+  <li>Win32 malware.gen</li>
+  <li>Zeus Trojan</li>
+  <li>DNS Changer</li>
+  <li>HackTool:Win32/Keygen</li>
+  <li>Privacy Policy</li>
+  <li>Terms & Condition</li>
+  <li>Disclaimer</li>
+  <li>Cookies</li>
 </ul>
 
 
