@@ -111,16 +111,36 @@
 
 <h1 align="center"><b><i>Future Scope</i></b></h1>
 
+<p>We have taken special care to make this website accessible to the general public. This website has a complete description of how ordinary people can protect themselves from cybercrime, how to report crimes.  We recommend government authorities to form a team to investigate this cybercrime-related cases presumably called the Investigation of Cyber Raw Agent Department (ICRA Department). Each of these teams will have its own office in the state for any kind of assistance. Also, crime investigations will be carried out in this office and the criminals will be punished accordingly through the courts. After the criminal is released from prison, the ICRA team will monitor the person through various devices for the next three years and also monitor his family through IP address, mac address. The person will be fined and punished according to the law for the crime of cybercrime. Depending on the situation in each state, there may be one or more offices and the main office may be set up in Delhi by the central government. There is no need to go to CBI and CID at any police station for the general public to get more information through this website, helpline number will be given by visiting cybercrime website www.cybercrimecell.xyz to talk to ICRA customer service representatives directly there.  You can. Moreover, if any person does not know about our Cyber Crime Cell or ICRA, they will go to their local police station and forward the complaint directly to us.</p>   
+
 <h1 align="center"><b><i>References</i></b></h1>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li> 
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>cybercrime.gov.in</li>
+  <li>www.cybercelldelhi.in</li>
+  <li>https://ifflab.org/how-to-file-a-cyber-crime-complaint-in-india</li> 
+  <li>https://www.interpol.int/en/Crimes/Cybercrime</li>
+  <li>https://www.enigmasoftware.com/webdiscoverbrowser-removal/</li>
+  <li>https://www.buguroo.com/en/blog/the-worlds-top-3-cybercrime-and online-fraud-hotspots</li>
+  <li>https://www.cybersecurity-insiders.com/list-of-countries-which-are-most-vulnerable-to-cyber-attacks/</li>
+  <li>https://www.researchgate.net/figure/TOP-20-COUNTRIES-GENERATING-CYBER-CRIME-15_fig4_319677972</li>
+  <li>https://www.usnews.com/news/best-countries/articles/2019-02-01/china-and-russia-biggest-cyber-offenders-since-2006-report-shows</li> 
+  <li>http://www.kolkatapolice.gov.in/</li>
 </ul>
 
-
 <h1 align="center"><b><i>Acknowledgement</i></b></h1>
+
+<p>I, Ayan Sarkar student of Computer Engineering of 3rd year in Diploma DCS3 batch of Techno India University, West Bengal have prepared a final year Project name “Cyber Crime Cell”. I express my sincere thanks and gratitude to our mentor Shilpi Mishra Madam, Assistant professor Department of Computer science and engineering, Techno India University, West Bengal to encourage me to the highest peak and to provide me with the opportunity and guided me for the completion of the final year project. I am also thankful to all our teachers for explaining on the critical aspect of topics related to the project, which helped me in doing a lot of research and came to know about so many new things. Lastly, I am immensely obliged to my friend for their elevating inspiration, encouraging guidance in the completion of my project.</p>
+
+
+
+
+
+
+<p>Submitted By:</p>
+<p>Name:- Ayan Sarkar</p>
+<p>Course:- Diploma, CSE</p> 
+<p>Year:- 3rd Year (6th Semester)</p>
+<p>University Roll No. – 171001201011</p>
+<p>Registration No.- 1001711368</p>
+
