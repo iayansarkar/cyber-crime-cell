@@ -50,7 +50,7 @@
 
 <h1 align="center"><b><i>Software & Hardware Requirement</i></b></h1>
 
-<ul><b>Software Requirement:</b>
+<ul><h3><b><ul>Software Requirement:</ul></b></h3>
   <li>Sublime Text 3</li>
   <li>Hosting Server</li>
   <li>Domain Name</li> 
