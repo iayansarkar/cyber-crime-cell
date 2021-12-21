@@ -11,13 +11,13 @@
 <h1 align="center">Project Name:- Cyber Crime Cell</h1>
 <h3 align="center">[INVESTIGATION OF CYBER RAW AGENT- ICRA]</h3></br></br>
 
-<p align="center" height="10%">
+<p align="center">
   <img src="images/logo.png"/>
 </p>
 
 </br>
 
-<h2 align="center">Final Year Project Report -2020</h2>
+<h2 align="center">Final Year Project Report -2020</h2></br></br>
 
 <ul>
   <li>Name:- Ayan Sarkar</li>
