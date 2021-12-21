@@ -14,8 +14,9 @@ Final Year Project Report -2020
 <ul>
   <li>Name:- Ayan Sarkar</li>
   <li>Student ID:- 171001201011</li>
-Registration Number:- 1001711368
-Stream:- Computer science and engineering
-Batch:- DCS3
-Year:- 3rd- (Final Year)
+  <li>Registration Number:- 1001711368</li> 
+  <li>Stream:- Computer science and engineering</li>
+  <li>Batch:- DCS3</li>
+  <li>Year:- 3rd- (Final Year)</li>
+</ul>
 
