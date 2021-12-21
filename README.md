@@ -11,7 +11,7 @@
 <h1 align="center">Project Name:- Cyber Crime Cell</h1>
 <h3 align="center">[INVESTIGATION OF CYBER RAW AGENT- ICRA]</h3></br></br>
 
-  <img src="images/logo.png" align="center">
+  <img src="images/logo.png" margin-left="10%" >
 
 </br>
 
