@@ -146,16 +146,13 @@
 <p>University Roll No. – 171001201011</p>
 <p>Registration No.- 1001711368</p>
 
-<style>
-div {
-  background-color: lightgrey;
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
-}
-</style>
-</head>
-<body>
-
-##bjdhgjdbgjdfg
+<div class="alert alert-danger" role="alert">
+    <div class="row vertical-align">
+        <div class="col-xs-1 text-center">
+            <i class="fa fa-exclamation-triangle fa-2x"></i>
+        </div>
+        <div class="col-xs-11">
+                <strong>Error:</strong>                   
+        </div>   
+    </div> 
+</div>
