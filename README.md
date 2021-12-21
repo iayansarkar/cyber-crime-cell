@@ -73,8 +73,8 @@
 <ul>
   <li>Home</li>
   <li>Report Crime</li>
-  <li>Crime Reports</li> 
-  <li>Track Complaints</li>
+  * **Crime Reports 
+      * Track Complaints
   <li>Criminal Cases</li>
   <li>Act Rule</li>
   <li>Member</li>
