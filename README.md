@@ -5,7 +5,7 @@
     <img src="images/logo.png" alt="Logo" width="100" height="120">
   </a>
 
-  <h2 align="center">Cyber Crime Cell</h2>
+  <h1 align="center">Cyber Crime Cell</h1>
 
 <p align="center">
    Diploma Final Year Project Report - 2020
