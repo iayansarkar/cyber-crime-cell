@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="100">
   </a>
 
   <h2 align="center">Cyber Crime Cell</h2>
