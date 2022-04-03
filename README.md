@@ -1,5 +1,4 @@
-[![html][html]][html-url]
-
+[![photoshop](./src/photoshop.svg)](https://badges.aleen42.com/src/photoshop.svg) [![illustrator](./src/illustrator.svg)](https://badges.aleen42.com/src/illustrator.svg) 
 
 <!-- PROJECT LOGO -->
 <br />
