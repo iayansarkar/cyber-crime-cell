@@ -25,8 +25,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 <img src="images/screenshots/Header.png">
 <img src="images/screenshots/About-Cyber-Crime.png">
 <img src="images/screenshots/Cyber-Crimes.png">
