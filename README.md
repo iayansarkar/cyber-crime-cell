@@ -1,3 +1,4 @@
+#E34F26
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
