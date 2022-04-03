@@ -23,7 +23,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 
 <img src="images/screenshots/Header.png">
 <img src="images/screenshots/About-Cyber-Crime.png">
@@ -32,7 +32,7 @@
 <img src="images/screenshots/Media-News.png">
 <img src="images/screenshots/Footer.png">
 
-<br>
+# About me
 
 <ul>
   <li>Name:- Ayan Sarkar</li>
