@@ -26,7 +26,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-# About The Project
+# :scroll: About The Project
 
 <img src="images/screenshots/Header.png">
 <img src="images/screenshots/About-Cyber-Crime.png">
