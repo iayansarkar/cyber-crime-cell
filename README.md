@@ -79,7 +79,7 @@
 <details>
 <summary>Software & Hardware Requirement<summary>
 <br>
-**Software Requirement:-**
+Software Requirement:-
 <br>
   <li>Sublime Text 3</li>
   <li>Hosting Server</li>
@@ -93,11 +93,12 @@
   <li>Google Sheet</li>
 </ul>
 <br>
-<summary>Hardware Requirement:-</summary>
+Hardware Requirement:-
 <br>
 <ul>
 <li>Laptop with Internet</li>
-</ul></br>
+</ul>
+</br>
 </details>
 
 ---
