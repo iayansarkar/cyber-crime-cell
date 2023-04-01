@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img src="images/logo.png" alt="Cyber-Crime-Cell" width="200" height="220">
+<img src="images/logo.png" alt="Cyber-Crime-Cell" width="220" height="240">
 </p>
 
 # Cyber Crime Cell
