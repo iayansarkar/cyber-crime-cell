@@ -4,21 +4,10 @@
 
 ---
 
-# Cyber Crime Cell - [ INVESTIGATION OF CYBER RAW AGENT- ICRA ]
+# Cyber Crime Cell 
+## [ INVESTIGATION OF CYBER RAW AGENT- ICRA ]
 
-<p align="center">
-   Diploma Final Year Project Report - 2020
-    <br>
-    <a href="#"><strong>Explore the docs »</strong></a>
-    <br>
-    <br />
-    <a href="#">View Demo</a>
-    ·
-    <a href="#">Contact me</a>
-    ·
-    <a href="#">Ask any question</a>
-  </p>
-</div>
+**Diploma Final Year Project Report - 2020**
 
 **Live Demo:-** [View Project](https://ayansarkar.dev/cyber-crime-cell)
 
