@@ -1,12 +1,8 @@
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="#">
-    <img src="images/logo.png" alt="Logo" width="130" height="150">
-  </a>
+<br>
+<img src="images/logo.png" alt="Cyber-Crime-Cell" width="130" height="150">
 
-  <h1 align="center">Cyber Crime Cell</h1>
-  <p align="center">[ INVESTIGATION OF CYBER RAW AGENT- ICRA ]</p>
+#Cyber Crime Cell
+##[ INVESTIGATION OF CYBER RAW AGENT- ICRA ]
 
 <p align="center">
    Diploma Final Year Project Report - 2020
