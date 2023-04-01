@@ -10,9 +10,9 @@
 
 <p align="center">
    Diploma Final Year Project Report - 2020
-    <br />
+    <br>
     <a href="#"><strong>Explore the docs »</strong></a>
-    <br />
+    <br>
     <br />
     <a href="#">View Demo</a>
     ·
@@ -21,16 +21,6 @@
     <a href="#">Ask any question</a>
   </p>
 </div>
-
-<!-- ABOUT THE PROJECT -->
-# :scroll: About The Project
-
-<img src="images/screenshots/Header.png">
-<img src="images/screenshots/About-Cyber-Crime.png">
-<img src="images/screenshots/Cyber-Crimes.png">
-<img src="images/screenshots/Cyber-Safety.png">
-<img src="images/screenshots/Media-News.png">
-<img src="images/screenshots/Footer.png">
 
 # About me
 
@@ -41,7 +31,8 @@
   <li>Stream:- Computer science and engineering</li>
   <li>Batch:- DCS3</li>
   <li>Year:- 3rd- (Final Year)</li>
-</ul></br>
+</ul>
+</br>
 
 <h1 align="center"><b><i>Index</i></b></h1>
 
@@ -79,7 +70,7 @@
 <details>
 <summary>Software & Hardware Requirement</summary>
 <br>
-**Software Requirement:-**
+Software Requirement:-
 <br>
   <li>Sublime Text 3</li>
   <li>Hosting Server</li>
@@ -153,7 +144,9 @@ Hardware Requirement:-
 <details>
 <summary>Future Scope</summary>
 <br>
-<p>We have taken special care to make this website accessible to the general public. This website has a complete description of how ordinary people can protect themselves from cybercrime, how to report crimes.  We recommend government authorities to form a team to investigate this cybercrime-related cases presumably called the Investigation of Cyber Raw Agent Department (ICRA Department). Each of these teams will have its own office in the state for any kind of assistance. Also, crime investigations will be carried out in this office and the criminals will be punished accordingly through the courts. After the criminal is released from prison, the ICRA team will monitor the person through various devices for the next three years and also monitor his family through IP address, mac address. The person will be fined and punished according to the law for the crime of cybercrime. Depending on the situation in each state, there may be one or more offices and the main office may be set up in Delhi by the central government. There is no need to go to CBI and CID at any police station for the general public to get more information through this website, helpline number will be given by visiting cybercrime website www.cybercrimecell.xyz to talk to ICRA customer service representatives directly there.  You can. Moreover, if any person does not know about our Cyber Crime Cell or ICRA, they will go to their local police station and forward the complaint directly to us.</p></br> 
+<p>We have taken special care to make this website accessible to the general public. This website has a complete description of how ordinary people can protect themselves from cybercrime, how to report crimes.  We recommend government authorities to form a team to investigate this cybercrime-related cases presumably called the Investigation of Cyber Raw Agent Department (ICRA Department). Each of these teams will have its own office in the state for any kind of assistance. Also, crime investigations will be carried out in this office and the criminals will be punished accordingly through the courts. After the criminal is released from prison, the ICRA team will monitor the person through various devices for the next three years and also monitor his family through IP address, mac address. The person will be fined and punished according to the law for the crime of cybercrime. Depending on the situation in each state, there may be one or more offices and the main office may be set up in Delhi by the central government. There is no need to go to CBI and CID at any police station for the general public to get more information through this website, helpline number will be given by visiting cybercrime website www.cybercrimecell.xyz to talk to ICRA customer service representatives directly there. You can. Moreover, if any person does not know about our Cyber Crime Cell or ICRA, they will go to their local police station and forward the complaint directly to us.
+</p>
+</br> 
 </details>
 
 ---
@@ -172,7 +165,8 @@ Hardware Requirement:-
   <li>https://www.researchgate.net/figure/TOP-20-COUNTRIES-GENERATING-CYBER-CRIME-15_fig4_319677972</li>
   <li>https://www.usnews.com/news/best-countries/articles/2019-02-01/china-and-russia-biggest-cyber-offenders-since-2006-report-shows</li> 
   <li>http://www.kolkatapolice.gov.in/</li>
-</ul></br>
+</ul>
+</br>
 </details>
 
 ---
