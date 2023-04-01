@@ -4,8 +4,7 @@
 
 ---
 
-# Cyber Crime Cell
-## [ INVESTIGATION OF CYBER RAW AGENT- ICRA ]
+# Cyber Crime Cell - [ INVESTIGATION OF CYBER RAW AGENT- ICRA ]
 
 <p align="center">
    Diploma Final Year Project Report - 2020
