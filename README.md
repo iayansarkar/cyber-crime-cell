@@ -77,9 +77,9 @@
 ---
 
 <details>
-<summary>Software & Hardware Requirement<summary>
+<summary>Software & Hardware Requirement</summary>
 <br>
-Software Requirement:-
+**Software Requirement:-**
 <br>
   <li>Sublime Text 3</li>
   <li>Hosting Server</li>
