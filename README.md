@@ -20,7 +20,7 @@
   </p>
 </div>
 
-**Live Demo** [View Live Project](https://ayansarkar.dev/cyber-crime-cell)
+**Live Demo:-** [View Project](https://ayansarkar.dev/cyber-crime-cell)
 
 <details>
 <summary>Index</summary>
