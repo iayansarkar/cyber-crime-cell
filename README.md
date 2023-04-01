@@ -1,5 +1,7 @@
 <br>
-<img align="center" src="images/logo.png" alt="Cyber-Crime-Cell" width="130" height="150">
+<p align="center">
+<img src="images/logo.png" alt="Cyber-Crime-Cell" width="130" height="150">
+</p>
 
 # Cyber Crime Cell
 ## [ INVESTIGATION OF CYBER RAW AGENT- ICRA ]
