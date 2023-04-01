@@ -4,13 +4,17 @@
 
 ---
 
-`Cyber Crime Cell`
+# Cyber Crime Cell
+
 <br> 
+
 ## [ INVESTIGATION OF CYBER RAW AGENT- ICRA ]
 
 **Diploma Final Year Project Report - 2020**
 
 **Live Demo:-** [View Project](https://ayansarkar.dev/cyber-crime-cell)
+
+<br>
 
 <details>
 <summary>Index</summary>
@@ -156,12 +160,6 @@ Hardware Requirement:-
 <summary>Acknowledgement</summary>
 <br>
 <p>I, Ayan Sarkar student of Computer Engineering of 3rd year in Diploma DCS3 batch of Techno India University, West Bengal have prepared a final year Project name “Cyber Crime Cell”. I express my sincere thanks and gratitude to our mentor Shilpi Mishra Madam, Assistant professor Department of Computer science and engineering, Techno India University, West Bengal to encourage me to the highest peak and to provide me with the opportunity and guided me for the completion of the final year project. I am also thankful to all our teachers for explaining on the critical aspect of topics related to the project, which helped me in doing a lot of research and came to know about so many new things. Lastly, I am immensely obliged to my friend for their elevating inspiration, encouraging guidance in the completion of my project.</p></br></br></br></br></br></br></br></br>
-
-
-
-
-
-
 <p>Submitted By:</p>
 <p>Name:- Ayan Sarkar</p>
 <p>Course:- Diploma, CSE</p> 
@@ -169,3 +167,5 @@ Hardware Requirement:-
 <p>University Roll No. – 171001201011</p>
 <p>Registration No.- 1001711368</p>
 </details>
+
+Thank you for visiting my portfolio! If you have any questions or would like to work together, please feel free to contact me.
