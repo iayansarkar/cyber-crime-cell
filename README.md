@@ -69,7 +69,6 @@
 <details>
 <summary>Introduction</summary>
 <br>
-<br>
 <p>The internet in India is growing rapidly. It has given rise to new opportunities in every field we can think of be it entertainment, business, sports or education. The current era is too fast to utilize the time factor to improve the performance factor. It is only possible due to the use of the Internet. The term Internet can be defined as the collection of millions of computers that provide a network of electronic connections between computers. There are millions of computers connected to the internet. Everyone appreciates the use of the Internet but there is another side of the coin that is cybercrime by the use of the Internet. The term cybercrime can be defined as an act committed or omitted in violation of a law forbidding or commanding it and for which punishment is imposed upon conviction. Other words represent the cybercrime as ―Criminal activity directly related to the use of computers, specifically illegal trespass into the computer system or database of another, manipulation or theft of stored or on-line data, or disrupt of equipment and data. The Internet space or cyberspace is growing very fast and as cybercrimes. The term cybercrime refers to a variety of crimes carried out online, using the internet through computers, laptops, tablets, internet-enabled televisions, games consoles and smartphones. Cyber Crimes are a new class of crimes rapidly increasing due to the extensive use of Internet and Information Technology (IT) enabled services. The Information Technology (IT) Act, 2000, specifies the punishable acts. Since the primary objective of this Act is to create an enabling environment for commercial use of IT, certain omissions and commissions of criminals while using computers have not been included. Several offences having bearing on cyber-arena are also registered under the appropriate sections of the IPC with the legal recognition of Electronic Records and the amendments made in several sections of the IPC vide the IT Act, 2000.
 </p>
 </br>
@@ -78,11 +77,9 @@
 ---
 
 <details>
-<summary>Software & Hardware Requirement</summary>
-<br>
+#Software & Hardware Requirement
 <br>
 <summary>Software Requirement:-</summary>
-<br>
 <br>
   <li>Sublime Text 3</li>
   <li>Hosting Server</li>
@@ -95,13 +92,8 @@
   <li>Google Drive</li>
   <li>Google Sheet</li>
 </ul>
-</details>
-
----
-
-<details>
-<summary>Hardware Requirement:-</summary>
 <br>
+<summary>Hardware Requirement:-</summary>
 <br>
 <ul>
 <li>Laptop with Internet</li>
@@ -112,7 +104,6 @@
 
 <details>
 <summary>Site Map</summary>
-<br>
 <br>
 <ul>
   <li>Home</li>
@@ -161,7 +152,6 @@
 <details>
 <summary>Future Scope</summary>
 <br>
-<br>
 <p>We have taken special care to make this website accessible to the general public. This website has a complete description of how ordinary people can protect themselves from cybercrime, how to report crimes.  We recommend government authorities to form a team to investigate this cybercrime-related cases presumably called the Investigation of Cyber Raw Agent Department (ICRA Department). Each of these teams will have its own office in the state for any kind of assistance. Also, crime investigations will be carried out in this office and the criminals will be punished accordingly through the courts. After the criminal is released from prison, the ICRA team will monitor the person through various devices for the next three years and also monitor his family through IP address, mac address. The person will be fined and punished according to the law for the crime of cybercrime. Depending on the situation in each state, there may be one or more offices and the main office may be set up in Delhi by the central government. There is no need to go to CBI and CID at any police station for the general public to get more information through this website, helpline number will be given by visiting cybercrime website www.cybercrimecell.xyz to talk to ICRA customer service representatives directly there.  You can. Moreover, if any person does not know about our Cyber Crime Cell or ICRA, they will go to their local police station and forward the complaint directly to us.</p></br> 
 </details>
 
@@ -169,7 +159,6 @@
 
 <details>
 <summary>References</summary>
-<br>
 <br>
 <ul>
   <li>cybercrime.gov.in</li>
@@ -189,7 +178,6 @@
 
 <details>
 <summary>Acknowledgement</summary>
-<br>
 <br>
 <p>I, Ayan Sarkar student of Computer Engineering of 3rd year in Diploma DCS3 batch of Techno India University, West Bengal have prepared a final year Project name “Cyber Crime Cell”. I express my sincere thanks and gratitude to our mentor Shilpi Mishra Madam, Assistant professor Department of Computer science and engineering, Techno India University, West Bengal to encourage me to the highest peak and to provide me with the opportunity and guided me for the completion of the final year project. I am also thankful to all our teachers for explaining on the critical aspect of topics related to the project, which helped me in doing a lot of research and came to know about so many new things. Lastly, I am immensely obliged to my friend for their elevating inspiration, encouraging guidance in the completion of my project.</p></br></br></br></br></br></br></br></br>
 
