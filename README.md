@@ -22,20 +22,8 @@
   </p>
 </div>
 
-# About me
-
-<ul>
-  <li>Name:- Ayan Sarkar</li>
-  <li>Student ID:- 171001201011</li>
-  <li>Registration Number:- 1001711368</li> 
-  <li>Stream:- Computer science and engineering</li>
-  <li>Batch:- DCS3</li>
-  <li>Year:- 3rd- (Final Year)</li>
-</ul>
-</br>
-
-<h1 align="center"><b><i>Index</i></b></h1>
-
+<details>
+<summary>Index</summary>
 <ul>
   <li>OBJECTIVE</li>
   <li>INTRODCTION</li>
@@ -46,6 +34,9 @@
   <li>REFERENCES</li>
   <li>ACKNOWLEDGEMENT</li>
 </ul></br>
+</details>
+
+---
 
 <details>
 <summary>Objective</summary>
