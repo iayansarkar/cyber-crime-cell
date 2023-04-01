@@ -1,4 +1,3 @@
-<br>
 <p align="center">
 <img src="images/logo.png" alt="Cyber-Crime-Cell" width="220" height="240">
 </p>
