@@ -10,7 +10,7 @@
 
 **Diploma Final Year Project Report - 2020**
 
-**Live Demo:-** [View Project](https://ayansarkar.dev/cyber-crime-cell)
+**Live Demo:-** [View Project](https://cybercrimecell.ayansarkar.dev/)
 
 <br>
 <br>
