@@ -17,8 +17,7 @@
 
 ## Index
 
-<details>
-<summary>Read more...</summary>
+```
 <ul>
   <li>OBJECTIVE</li>
   <li>INTRODCTION</li>
@@ -29,7 +28,7 @@
   <li>REFERENCES</li>
   <li>ACKNOWLEDGEMENT</li>
 </ul></br>
-</details>
+```
 
 ---
 ## Objective
