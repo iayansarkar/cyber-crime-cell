@@ -19,14 +19,16 @@
 
 
 <ul>
- ``` <li>OBJECTIVE</li>
+ ``` 
+  <li>OBJECTIVE</li>
   <li>INTRODCTION</li>
   <li>SOFTWARE & HARDWARE REQUIREMENT</li> 
   <li>PROJECT SNAPSHOT</li>
   <li>SITE MAP</li>
   <li>FUTURE SCOPE</li>
   <li>REFERENCES</li>
-  <li>ACKNOWLEDGEMENT</li>```
+  <li>ACKNOWLEDGEMENT</li>
+```
 </ul></br>
 
 
