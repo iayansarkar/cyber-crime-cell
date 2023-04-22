@@ -30,9 +30,10 @@
 </details>
 
 ---
+## Objective
 
 <details>
-<summary>Objective</summary>
+<summary>Read more...</summary>
 <br>
 <p>The objective of our website will be to coordinate various efforts on cybercrime prevention and regulation in India. The general public is partially aware of the crimes related to virus transfer. However, they are unaware of the bigger picture of the threats that could affect their cyber-lives. There is a huge lack of knowledge on e-commerce and online banking cyber-crimes among most of the internet users. It aims to assist people who want to file a complaint against cybercrime. It aims to educate people with types of cybercrimes happening these days such as identity theft, phycological tricks, social media related attacks, digital banking frauds and basic safety tips, by which one can protect himself when going online. It will have a separate page dedicated to cyber safety tips for women, children, senior citizens, parent. A news feed page with audio containing regular updates of cyber-related crimes happening in India. Educating people with the importance of purchasing cybersecurity products such as Anti-virus, anti-spyware software, making sure that their devices are protected with the latest updates and security patches. Incase crime happens the victim can report the crime by filling out the online form with necessary details if further assistance required, he/she can reach out to our helpline number. There will be a separate admin area where cybercrime prevention authorities can access the database of the crime reports filed by users.
 </p>
